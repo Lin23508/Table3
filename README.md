@@ -1,6 +1,6 @@
 ![](Figure2.png)
 
-Figure 2: Distribution of Lower Bound $R_{\sigma,t}$ Values from 500 Simulations Using Algorithm 2.
+Figure 2: Distribution of Lower Bound $R_{\sigma,t}$ Values from 500 Simulations Using Algorithm 2 on CIFAR10 dataset.
 
 ![](Table5.png)
 
